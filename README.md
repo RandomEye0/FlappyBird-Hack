@@ -24,8 +24,12 @@ This hack is designed specifically for the **Chrome Extension Version** of Flapp
 
 ## ⚙️ How to Use
 
-1) Unzip the Game file
-2) 
+1)First Your gonna want to Download the File
+2)Unzip The downloaded file
+3)got to: chrome://extensions/
+4)In the top right corner there sould be a switch that says develepor mode: click it
+5)Click the load unpacked button and import the game folder
+6)Enjoy (:
 
 ---
 
